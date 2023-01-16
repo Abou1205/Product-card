@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./product.png)
+![](./images/product.png)
 
 
 ### Links
@@ -45,3 +45,4 @@ Users should be able to:
 - Frontend Mentor - [@Abou1205](https://www.frontendmentor.io/profile/Abou1205)
 - Linkedln - [Ebubekir Yılmaz](https://www.linkedin.com/in/ebubekir-yilmaz/)
 # product-card
+# Product-card
