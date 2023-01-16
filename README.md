@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My solution](https://www.frontendmentor.io/solutions/product-preview-card-component-02IQuoWmdl)
-- Live Site URL: [Live site](https://product-card-zeta-seven.vercel.app/)https://product-card-zeta-seven.vercel.app/)
+- Live Site URL: [Live site](https://product-card-zeta-seven.vercel.app/)
 
 
 ### Built with
